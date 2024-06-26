@@ -278,7 +278,7 @@ footer{
 
 @media screen and (max-width:600px){
     .text{
-        font-size: 24px;
+        font-size: 20px;
     }
     .para{
         font-size: 16px;
@@ -348,5 +348,19 @@ footer{
     }
     .footer-lower-section p{
        font-size: 12px;
+    }
+
+    .final-section h1{
+        font-size: 20px;
+        width: 85%;
+    }
+    .final-section p{
+        font-weight: bold;
+        font-size: 14px;
+    }
+    .first-section>.first-heading{
+        width:85%;
+        
+       
     }
 }
