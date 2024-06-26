@@ -380,3 +380,53 @@ footer{
         font-size: 12px;
      }
 }
+
+@media screen and (min-width:601px) and (max-width:1024px){
+    .image{
+        width: 70%;
+        margin: auto;
+    }
+    .image>img{
+        width: 100%;
+    }
+
+    .box-img{
+        width: 55%;
+    }
+    .box-img>img{
+        width: 100%;
+    }
+
+    .text{
+        font-size: 30px;
+    }
+    .para{
+        font-size: 18px;
+    }
+    .nav-menu>span> a{
+        font-size: 14px;
+    }
+    .logo>p{
+        font-size: 18px;
+    }
+
+    .final-section h1{
+        font-size: 30px;
+        width: 85%;
+        text-align: center;
+    }
+    .final-section p{
+        font-weight: bold;
+        font-size: 18px;
+
+    }
+    .first-section>.first-heading{
+        width:85%;
+    }
+
+    .ai-heading>h1{
+        font-size: 30px;
+        
+        
+    }
+}
