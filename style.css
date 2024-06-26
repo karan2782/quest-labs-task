@@ -57,6 +57,8 @@ nav{
     color: white;
     text-decoration: none;
 }
+
+
 .first-section{
     display: flex;
     flex-direction: column;
@@ -243,7 +245,8 @@ footer{
 .final-section button{
     padding: 8px 12px;
     background: linear-gradient(transparent, transparent) padding-box padding-box, linear-gradient(to left, rgb(0, 101, 255), rgb(144, 53, 255), rgb(144, 53, 255)) border-box border-box;
-    border: 1px solid rgba(0, 0, 0, 0)
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius:5px;
 
 }
 .final-section button a{
@@ -255,5 +258,20 @@ footer{
 
 .overlay{
     background-color: rgba(0, 0, 0, 0.9);
+}
+
+.show-icon{
+    background: var(--Primary, linear-gradient(84deg, #9035ff .36%, #0065ff 100.36%));
+    width: 70px;
+    height: 70px;
+    padding: 10px 0  0 20px;
+    box-sizing: border-box;
+    border-radius: 100px;
+    box-shadow: -1px -1px 50.3px -1px #9035ffbf;
+}
+.icon{
+    position: fixed;
+    bottom: 5%;
+    right: 2%;
 }
    
