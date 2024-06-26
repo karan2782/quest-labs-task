@@ -71,6 +71,7 @@ nav{
     
     color: white;
     padding-top: 100px;
+    padding: 0 10px;
    
 }
 .first-section>.first-heading{
@@ -128,6 +129,7 @@ nav{
     background-color: #000000;
     color: white;
     padding-bottom: 150px;
+    padding: 0 10px;
 }
 .ai-heading{
     font-size: 30px;
@@ -226,6 +228,7 @@ footer{
     background-repeat: no-repeat;
     
     color: white;
+    padding: 0 10px;
 }
 
 .final-section h1{
