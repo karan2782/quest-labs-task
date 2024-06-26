@@ -191,7 +191,6 @@ width: 50px;
 }
 .footer-list{
     display: flex;
-    border: 1px solid black;
     width: 60%;
     justify-content: space-around;
 }
