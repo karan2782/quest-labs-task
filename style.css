@@ -360,7 +360,17 @@ footer{
     }
     .first-section>.first-heading{
         width:85%;
-        
-       
     }
+
+
+    .footer-list>ul>li>a{
+        font-size: 10px;
+    }
+        
+     .footer-list>ul>li{
+        font-size: 12px;
+     }  
+     .logo-txt{
+        font-size: 12px;
+     }
 }
